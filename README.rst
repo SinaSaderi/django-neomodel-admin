@@ -1,7 +1,12 @@
 django-neo4jadmin
 ===============
 
-This is a sample module allow you to use the neo4j graph database with Django admin interface.
+.. image:: https://i.ibb.co/RDG1Yk3/django-neomodel-admin.png
+   :alt: neomodel-admin
+
+This is a sample module allow you to use the neo4j_ graph database with Django admin interface.
+
+.. _neo4j: https://www.neo4j.org
 
 Installable App
 ---------------
